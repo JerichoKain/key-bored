@@ -4,7 +4,7 @@
 ---
 
 ## Rules
-1. The Player mst type words or phrases to control the game.
+1. The player must type words or phrases to control the game.
 2. The game dictionary must consist of at least 30 different words/phrases.
 3. The game must have a persistent high-score table.
 
